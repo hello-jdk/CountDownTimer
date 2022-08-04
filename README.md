@@ -29,3 +29,7 @@ https://www.youtube.com/watch?v=dtKciwk_si4&t=1944s
 <img width="500" alt="3" src="https://user-images.githubusercontent.com/57665888/182859710-f1c8d990-9139-4c2f-92c3-bb1b7dcc7df6.png">
 
 - `Actions` 탭에서 현재 진행 상황 확인
+
+<img width="819" alt="4" src="https://user-images.githubusercontent.com/57665888/182860913-afc79fab-a235-481f-8e83-e72cb7e90cb6.png">
+
+- 수정 후 다시 `push` 할시 자동으로 `build`가 
