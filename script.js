@@ -20,10 +20,6 @@ function countdown() {
   hoursEl.innerHTML = hours;
   minsEl.innerHTML = minutes;
   secondsEl.innerHTML = seconds;
-
-  //console.log(days, hours, minutes, seconds);
 }
-
-countdown();
 
 setInterval(countdown, 1000);
