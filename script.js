@@ -22,4 +22,6 @@ function countdown() {
   secondsEl.innerHTML = seconds;
 }
 
+countdown();
+
 setInterval(countdown, 1000);
